@@ -17,5 +17,6 @@ utilizando la API para conseguir una lista de los bichos:
 ![Evidencia_Bichos](https://github.com/user-attachments/assets/5432525c-379c-4559-8891-a947d9ce4bc9)
 se puede cambiar el /bug para conseguir distintas listas, como /fish (peces), /fossil (fósiles), /sea (criaturas marinas)
 
-## Documentación
-link: https://api.nookipedia.com/doc
+## Links
+página de la API: https://api.nookipedia.com
+documentación: https://api.nookipedia.com/doc
